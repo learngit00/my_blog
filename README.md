@@ -1,2 +1,2 @@
-# my_blog
-My Blog
+# Hello World
+## Created by RuX
